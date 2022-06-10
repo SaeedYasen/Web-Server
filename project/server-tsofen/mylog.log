@@ -1,0 +1,14 @@
+Jun 10, 2022 12:19:44 PM serverpkg.Log log
+SEVERE: {"response-code":"200","action":"upload","content-type":"text/plain","file-name":"dir1/file1.txt","request-id":"8b54d3b8-36ff-4dd4-9437-3f63cf27c591"}
+Jun 10, 2022 12:21:44 PM serverpkg.Log log
+SEVERE: {"response-code":"200","action":"upload","content-type":"image/jpeg","file-name":"dir1/file1.jpeg","request-id":"1dda0156-573f-4cd0-967f-2e849d55500e"}
+Jun 10, 2022 12:24:39 PM serverpkg.Log log
+SEVERE: {"response-code":"200","action":"download","content-type":"text/plain","file-name":"dir1/file1.txt","request-id":"97fce067-00d6-4531-95c1-6c64cb122ed4"}
+Jun 10, 2022 12:25:48 PM serverpkg.Log log
+SEVERE: {"response-code":"200","action":"download","content-type":"text/plain","file-name":"dir1/file1.txt","request-id":"a48a4fb1-00f2-4e77-a43d-38c4d058b1e5"}
+Jun 10, 2022 12:26:19 PM serverpkg.Log log
+SEVERE: {"response-code":"200","action":"get","content-type":"","file-name":"dir1","request-id":"cc105850-dec0-4792-b0ca-c9bc44d9d355"}
+Jun 10, 2022 12:26:42 PM serverpkg.Log log
+SEVERE: {"response-code":"200","action":"delete","content-type":"text/plain","file-name":"dir1/file1.txt","request-id":"bac20b1f-994b-45f3-a38c-40cf9dd40b1f"}
+Jun 10, 2022 12:26:48 PM serverpkg.Log log
+SEVERE: {"response-code":"200","action":"get","content-type":"","file-name":"dir1","request-id":"65c84486-a20a-4e82-aa68-c2578f8f7b24"}
